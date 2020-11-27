@@ -4,6 +4,10 @@ Security Black Friday/Cyber Monday Deals
 SOFTWARES:
 -----------------------------------------------------------------------------------------
 
+- OutThink human risk management / security awareness training platform (SaaS)
+  Code "HRP30" at https://outthink.io/contact/
+  Valid for demo requests received until 30.11.2020
+
 - Pulsedive
   Apply promo code "TRYFOR5" valid until 30th November
   https://pulsedive.com/purchase/pro
@@ -89,6 +93,11 @@ PASSWORD MANAGERS:
 
 COURSES/TRAININGS:
 -----------------------------------------------------------------------------------------
+
+- OutThink human risk management / security awareness training platform (SaaS)
+  Code "HRP30" at https://outthink.io/contact/
+  Valid for demo requests received until 30.11.2020
+
 - Letsdefend
   Use coupon code "BLCKFRDY" and get 50% discount on http://letsdefend.io
   The coupon is valid until 29.11.2020
